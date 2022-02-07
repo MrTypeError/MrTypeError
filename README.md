@@ -21,7 +21,8 @@
     ⚛️ I love to create different types of **contents**.
 <td>
 
-    <a href="https://github.com/MrTypeError"><img src="https://github.com/MrTypeError" width="300" alt="MrTypeError Intro Card"/></a>
+    <a href="https://github.com/MrTypeError">
+      <img src="![94236173](https://user-images.githubusercontent.com/94236173/152775845-ce025e04-6b3a-4a2d-8ebd-c775c5ea8a52.jpeg)" width="300" alt="MrTypeError Intro Card"/></a>
   </td>
 
 </tr>
