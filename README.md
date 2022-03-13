@@ -20,11 +20,8 @@
     
     ⚛️ I love to create different types of **contents**.
 <td>
-
-    
-   ![94236173-modified (1)](https://user-images.githubusercontent.com/94236173/152778077-23847102-5d66-4ec1-894c-acba9f9c0cc1.png)
-  </td>
-
+<a href="https://app.daily.dev/MrTypeError"><img src="https://api.daily.dev/devcards/c29bdb003d464212a852523070457570.png?r=nf7" width="400" alt="Sudip Dutta's Dev Card"/></a>
+</td>
 </tr>
 </table>
 
