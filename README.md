@@ -1,13 +1,4 @@
 
-<h1 align="center"> Hi, I'm MrTypeError 👋</h1>
-
-
-<h1 align="center"> Welcome To My Profile 👋</h1> 
-
-
-### About Me 🎉
--------------------------------------------------------------------------------------
-
 <table>
 <tr>
   <td valign="center">
