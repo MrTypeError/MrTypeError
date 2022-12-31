@@ -3,11 +3,11 @@
 <tr>
   <td valign="center">
  
-    🎉 I am currently pursuing my **Computer Science Engineering**.
+    🎉 I am currently pursuing my **Computer Science Engineering.
     
-    🕸️ I am currently learning **CSS and also interested in Web Development**.
+    🕸️ I am currently learning CSS and also interested in Web Development.
 
-    🎯 My Goal is to Contribute to as many **open source project** as possible.
+    🎯 My Goal is to Contribute to as many open_source project as possible.
     
     ⚛️ I love to create different types of **contents**.
 <td>
@@ -16,11 +16,9 @@
 </tr>
 </table>
 
+<h1 align="center">Welcome To Open Source Information center</h1>
 
-### Welcome To Open Source Information center
 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MrTypeError&theme=dracula&hide_border=true)
 
 
 <p align="center">
