@@ -7,9 +7,9 @@
     
     🕸️ I am currently learning CSS and also interested in Web Development.
 
-    🎯 My Goal is to Contribute to as many open_source project as possible.
+    🎯 My Goal is to Contribute to as many open-source projects as possible.
     
-    ⚛️ I love to create different types of **contents**.
+    ⚛️ I love to create different types of **content**.
 <td>
 <a href="https://app.daily.dev/MrTypeError"><img src="https://api.daily.dev/devcards/c29bdb003d464212a852523070457570.png?r=nf7" width="400" alt="Sudip Dutta's Dev Card"/></a>
 </td>
